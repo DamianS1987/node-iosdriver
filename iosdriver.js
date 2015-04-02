@@ -30,7 +30,7 @@
 // Dependencies
 var net = require('net');
     plist = require('plist'),
-    bplist_create = require('node-bplist-creator'),
+    bplist_create = require('bplist-creator'),
     bplist_parse = require('bplist-parser'),
     bufferpack = require('bufferpack'),
     uuid = require('node-uuid'),
